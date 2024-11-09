@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh0128&show_icons=true&theme=ambient_gradient)
 
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/pdh0128?pet-id=643055322331582430"
+    width="600"
+    height="120"
+  />
+</a>
+  
