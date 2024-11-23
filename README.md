@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<del>프사 김민재가 하라고 협박함</del>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh0128&show_icons=true&theme=ambient_gradient)
 
 
