@@ -22,6 +22,7 @@
 <details open>
     <summary><h2>🧰 Backend</h2></summary>
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30">
 </details>
 
 <details open>
