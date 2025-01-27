@@ -1,4 +1,4 @@
-## 🎯 안녕하세요. AI 엔지니어로의 여정, 박동현입니다!
+## 
 
 <a href="https://github.com/devxb/gitanimals">
   <img
