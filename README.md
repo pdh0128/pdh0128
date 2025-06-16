@@ -1,4 +1,7 @@
-## 
+##  안녕하세요, 백엔드 개발자 박동현입니다.
+
+<a href="https://www.notion.so/20eb22eecf018061a28ed21675654b4d?source=copy_link">포트폴리오 보러가기</a>
+
 
 <a href="https://github.com/devxb/gitanimals">
   <img
