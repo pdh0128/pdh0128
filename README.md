@@ -37,7 +37,6 @@
     <summary><h2>🤖 AI / Machine Learning</h2></summary>
     <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30">
     <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30">
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30">
 </details>
 
 <details open>
