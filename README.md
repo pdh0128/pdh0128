@@ -10,6 +10,3 @@
     height="30"
   />
 </a>
-
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/comodoking_0128?post=3)
-
