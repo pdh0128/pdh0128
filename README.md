@@ -1,8 +1,5 @@
 ##  안녕하세요, 퇴적암같은 엔지니어 박동현입니다.
 
-<a href="https://pdh0128.notion.site/2bfb22eecf0181b8a57ec657bca6a7fe">포트폴리오 보러가기</a>
-
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/pdh0128?pet-id=643055322331582430"
